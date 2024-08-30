@@ -25,8 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/franklobsty25/franklobsty25.github.io)
+- Live Site URL: [Add live site URL here](https://franklobsty25.github.io/)
 
 ## My process
 
@@ -64,7 +64,7 @@ I want to continue practicing to get my hands adapted.
 
 ## Author
 
-- Website - [Frank Kodie](https://www.your-site.com)
+- Website - [Frank Kodie](https://franklobsty25.github.io/)
 - Frontend Mentor - [@franklobsty25](https://www.frontendmentor.io/profile/franklobsty25)
 - Twitter - [@kodieadu](https://www.twitter.com/kodieadu)
 
